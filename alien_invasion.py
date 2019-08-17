@@ -34,4 +34,5 @@ def run_game():
 #哈哈
 #哈哈
 #不明白也没办法吗啊，只能自己搞啊
+#切换前要commit
 run_game()
