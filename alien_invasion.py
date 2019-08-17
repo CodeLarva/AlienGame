@@ -21,5 +21,8 @@ def run_game():
         ship.update()
         gf.update_screen(ai_settings,screen,ship)
 
-#测试版本控制
+
+
+
+
 run_game()
