@@ -21,8 +21,5 @@ def run_game():
         ship.update()
         gf.update_screen(ai_settings,screen,ship)
 
-
-
-
-
+#测试基本成功，再次进行测试
 run_game()
