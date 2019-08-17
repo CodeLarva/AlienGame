@@ -22,4 +22,5 @@ def run_game():
         gf.update_screen(ai_settings,screen,ship)
 
 #再次进行更改
+#好像有点问题啊
 run_game()
