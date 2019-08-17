@@ -32,4 +32,6 @@ def run_game():
 #new change2
 #new change3
 #哈哈
+#哈哈
+#不明白也没办法吗啊，只能自己搞啊
 run_game()
