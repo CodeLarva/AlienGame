@@ -30,4 +30,5 @@ def run_game():
 #新添加的东西
 #问题还是很多的啊
 #new change2
+#new change3
 run_game()
