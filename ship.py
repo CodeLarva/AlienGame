@@ -26,3 +26,4 @@ class Ship():
     def blitme(self):
         """指定位置绘制飞船"""
         self.screen.blit(self.image, self.rect)
+        #郁闷啊
