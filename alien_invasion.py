@@ -29,5 +29,5 @@ def run_game():
 #创建了一个分支
 #新添加的东西
 #问题还是很多的啊
-#new change
+#new change2
 run_game()
