@@ -27,3 +27,4 @@ class Ship():
         """指定位置绘制飞船"""
         self.screen.blit(self.image, self.rect)
         #创建一个ship类的分支
+        #修改ship类
