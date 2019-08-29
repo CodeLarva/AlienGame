@@ -32,4 +32,9 @@ def run_game():
 #new change2
 #new change3
 #哈哈
+#哈哈
+#不明白也没办法吗啊，只能自己搞啊
+#切换前要commit
+#新版本的Git
+#出问题了
 run_game()
