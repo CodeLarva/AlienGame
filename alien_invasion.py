@@ -37,4 +37,5 @@ def run_game():
 #切换前要commit
 #新版本的Git
 #出问题了
+#重新测试一下，看看情况
 run_game()
