@@ -35,5 +35,7 @@ def run_game():
 #哈哈
 #不明白也没办法吗啊，只能自己搞啊
 #切换前要commit
-#修改alien_invasion类
+#新版本的Git
+#出问题了
+#重新测试一下，看看情况
 run_game()
